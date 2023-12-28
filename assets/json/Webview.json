@@ -1,0 +1,11 @@
+{
+  "WebViewData": {
+    "ContentType": "html",
+    "ScaleSize" : 0.8,
+    "HtmlContent": "<h1>Hello, Flutter In-App WebView!</h1><p>This is a simple HTML content embedded in a Flutter in-app web view.</p>",
+    "BackgroundColor": "#EAEAEA",
+    "Link": "https://flutter.dev",
+    "Padding" : 0.0,
+    "Margin" : 0.0
+  }
+}
